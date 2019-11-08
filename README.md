@@ -1,2 +1,2 @@
-# kakao-map
+# KAKAO MAP
 Learning React Kakao Map
